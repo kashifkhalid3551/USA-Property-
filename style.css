@@ -41,6 +41,9 @@
 .main-nav ul li a:hover {
     color: white;
 }
+.nav-head:hover{
+    border-bottom: 2px solid orange;
+}
 
 .main-text {
     position: absolute;
